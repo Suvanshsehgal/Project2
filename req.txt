@@ -1,0 +1,6 @@
+gradio
+pandas
+requests
+geopy
+python-dotenv
+
